@@ -1,0 +1,13 @@
+*.class
+*.exe
+node_modules
+target
+*.jar
+.metadata
+RemoteSystemsTempFiles
+.settings
+Servers
+build
+.vscode
+
+
